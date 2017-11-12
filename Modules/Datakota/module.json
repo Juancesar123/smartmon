@@ -1,0 +1,16 @@
+{
+    "name": "Datakota",
+    "alias": "datakota",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Datakota\\Providers\\DatakotaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

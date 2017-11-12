@@ -1,0 +1,16 @@
+{
+    "name": "Userlevel",
+    "alias": "userlevel",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Userlevel\\Providers\\UserlevelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Datakecamatan",
+    "alias": "datakecamatan",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Datakecamatan\\Providers\\DatakecamatanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

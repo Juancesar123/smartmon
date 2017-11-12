@@ -1,0 +1,16 @@
+{
+    "name": "Dataprovinsi",
+    "alias": "dataprovinsi",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Dataprovinsi\\Providers\\DataprovinsiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
